@@ -4,4 +4,4 @@ Hafiz Afra Riata_102042400139
 
 menyala abangkuu
 
-SCRUM-8 Membuat Login
+S1-16 Memperbaiki bug gambar makanan tidak tampil pada daftar makanan
