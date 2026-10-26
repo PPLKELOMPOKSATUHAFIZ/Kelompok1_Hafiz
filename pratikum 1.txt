@@ -4,6 +4,4 @@ Hafiz Afra Riata_102042400139
 
 menyala abangkuu
 
-S1-17 Meningkatkan validasi input pada form makanan
-
-git commit -m "S1-17 Hafiz - Meningkatkan validasi input pada form makanan"
+S1-16 Memperbaiki bug gambar makanan tidak tampil pada daftar makanan
